@@ -70,9 +70,9 @@
 					"value": -43521
 				}
 			},
-			"GasStaion": {
+			"GasStation": {
 				"location": {
-					"x": 748,
+					"x": -783.5,
 					"y": 19,
 					"z": -100
 				},
