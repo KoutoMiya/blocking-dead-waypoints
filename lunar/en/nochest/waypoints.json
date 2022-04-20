@@ -1,0 +1,144 @@
+{
+	"mp:mc.hypixel.net": {
+		"": {
+			"FarmHouse": {
+				"location": {
+					"x": -892.5,
+					"y": 19,
+					"z": -144.5
+				},
+				"visible": true,
+				"dimension": 0
+			},
+			"CornField": {
+				"location": {
+					"x": -830.5,
+					"y": 19,
+					"z": -120.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -11141291
+				}
+			},
+			"Lake": {
+				"location": {
+					"x": -787.5,
+					"y": 12,
+					"z": -207.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": 672178
+				}
+			},
+			"Bank": {
+				"location": {
+					"x": -729.5,
+					"y": 19,
+					"z": -166.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -171
+				}
+			},
+			"Graveyard": {
+				"location": {
+					"x": -880.5,
+					"y": 19,
+					"z": -261.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -5635926
+				}
+			},
+			"Church": {
+				"location": {
+					"x": -882.5,
+					"y": 19,
+					"z": -235.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -43521
+				}
+			},
+			"GasStaion": {
+				"location": {
+					"x": 748,
+					"y": 19,
+					"z": -100
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -11184641
+				}
+			},
+			"Scrapyard": {
+				"location": {
+					"x": -757.5,
+					"y": 21,
+					"z": -119.5
+				},
+				"visible": true,
+				"dimension": 0
+			},
+			"School": {
+				"location": {
+					"x": -756.5,
+					"y": 19,
+					"z": -276.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -22016
+				}
+			},
+			"Police": {
+				"location": {
+					"x": -834.5,
+					"y": 19,
+					"z": -265.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": 7520671
+				}
+			},
+			"Barn": {
+				"location": {
+					"x": -889.5,
+					"y": 19,
+					"z": -116.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -5636096
+				}
+			},
+			"Gym": {
+				"location": {
+					"x": -729.5,
+					"y": 19,
+					"z": -235.5
+				},
+				"visible": true,
+				"dimension": 0,
+				"color_clr_nr": {
+					"value": -11141121
+				}
+			}
+		}
+	}
+}
